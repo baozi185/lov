@@ -1,0 +1,12 @@
+这是最新版网页源码：基于原版 yeir-bubu 网页，保留原版互动，替换确认后的图片并精修按钮。
+
+使用：先完整解压，再双击 index.html。无需安装依赖。
+
+index.html：页面结构
+style.css：样式和按钮外观
+script.js：按钮互动与文案
+images/：原版表情图片
+together.jpg：点击“可以”后显示的图片
+
+部署时将以上文件与 images 文件夹一起上传，保持相对路径不变。
+参考原版：https://itmubai.github.io/yeir-bubu/
